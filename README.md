@@ -6,6 +6,18 @@
 
 TravelDemo 是一個展示現代 SwiftUI 開發模式的示範專案，採用 MVVM 架構和 Coordinator 模式，實現了完整的旅遊建議流程。
 
+## 📸 應用程式截圖
+
+<div align="center">
+  <img src="docs/images/TravelDemo01.png" alt="TravelDemo 截圖 1" width="300"/>
+  <img src="docs/images/TravelDemo02.png" alt="TravelDemo 截圖 2" width="300"/>
+</div>
+
+<div align="center">
+  <img src="docs/images/TravelDemo03.png" alt="TravelDemo 截圖 3" width="300"/>
+  <img src="docs/images/TravelDemo04.png" alt="TravelDemo 截圖 4" width="300"/>
+</div>
+
 ## 主要功能
 
 - **智能分析**：根據使用者選擇的旅遊主題（城市、海島、自然、美食）提供個性化建議
