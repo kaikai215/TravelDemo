@@ -9,13 +9,15 @@ TravelDemo 是一個展示現代 SwiftUI 開發模式的示範專案，採用 MV
 ## 📸 應用程式截圖
 
 <div align="center">
-  <img src="docs/images/TravelDemo01.png" alt="TravelDemo 截圖 1" width="300"/>
-  <img src="docs/images/TravelDemo02.png" alt="TravelDemo 截圖 2" width="300"/>
-</div>
+  
+<img src="docs/images/TravelDemo01.png" alt="TravelDemo 截圖 1" width="280" style="margin: 10px;"/>
+<img src="docs/images/TravelDemo02.png" alt="TravelDemo 截圖 2" width="280" style="margin: 10px;"/>
 
-<div align="center">
-  <img src="docs/images/TravelDemo03.png" alt="TravelDemo 截圖 3" width="300"/>
-  <img src="docs/images/TravelDemo04.png" alt="TravelDemo 截圖 4" width="300"/>
+<br/>
+
+<img src="docs/images/TravelDemo03.png" alt="TravelDemo 截圖 3" width="280" style="margin: 10px;"/>
+<img src="docs/images/TravelDemo04.png" alt="TravelDemo 截圖 4" width="280" style="margin: 10px;"/>
+
 </div>
 
 ## 主要功能
